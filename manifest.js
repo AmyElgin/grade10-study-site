@@ -81,6 +81,34 @@ window.MANIFEST={
      ]
     },
     {
+     "name": "Mechanical Energy",
+     "items": [
+      {
+       "title": "Mechanical Energy PowerPoint notes",
+       "year": 2026,
+       "paper": {
+        "local": "files/physical-science/mechanical-energy/Mechanical Energy Powerpoint notes.pdf"
+       },
+       "memo": null
+      }
+     ]
+    },
+    {
+     "name": "Organic Chemistry",
+     "items": [
+      {
+       "title": "Naming organic molecules worksheet",
+       "year": 2026,
+       "paper": {
+        "local": "files/physical-science/organic-chemistry/Naming Organic molecules Worksheet.pdf"
+       },
+       "memo": {
+        "local": "files/physical-science/organic-chemistry/Naming Organic molecules Wkst MEMO.pdf"
+       }
+      }
+     ]
+    },
+    {
      "name": "Kinematics",
      "items": [
       {
@@ -293,12 +321,28 @@ window.MANIFEST={
        "paper": null,
        "memo": null,
        "note": "Afrikaans FAL: Mon 2 Nov (2h)"
+      },
+      {
+       "title": "Graad 10 2026 Novembereksamen",
+       "year": 2026,
+       "paper": {
+        "local": "files/afrikaans/november-2026/Graad 10  2026 Novembereksamen.pdf"
+       },
+       "memo": null
       }
      ]
     },
     {
      "name": "Toetsdatums & Wat om te leer",
      "items": [
+      {
+       "title": "Riglyne vir Kontroleskryf Oktober 2026",
+       "year": 2026,
+       "paper": {
+        "local": "files/afrikaans/toetsdatums-wat-om-te-leer/Graad 10 Riglyne vir Kontroleskryf Oktober 2026.pdf"
+       },
+       "memo": null
+      },
       {
        "title": "Kwartaal 4: Belangrike datums en assesserings",
        "year": 2026,
@@ -448,6 +492,142 @@ window.MANIFEST={
        "note": "Test Wed 21 Oct",
        "paper": null,
        "memo": null
+      }
+     ]
+    },
+    {
+     "name": "Test 7 (21 Oct): Analytical Geometry",
+     "items": [
+      {
+       "title": "WYNTK Term 4 Test: Analytical Geometry",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-robertson/test-7-21-oct-analytical-geometry/WYNTK -Grade 10 Term 4  Test-Analytical Geometry.pdf"
+       },
+       "memo": null
+      },
+      {
+       "title": "Analytical Geometry worksheet 2025",
+       "year": 2025,
+       "paper": {
+        "local": "files/maths-robertson/test-7-21-oct-analytical-geometry/Gr 10 Analytical Geometry worksheet 2025.pdf"
+       },
+       "memo": {
+        "local": "files/maths-robertson/test-7-21-oct-analytical-geometry/Memo-Gr 10 Analytical Geometry worksheet 2025.pdf"
+       }
+      },
+      {
+       "title": "Memo: AG MAS pages 237\u2013239",
+       "year": 2026,
+       "paper": null,
+       "memo": {
+        "local": "files/maths-robertson/test-7-21-oct-analytical-geometry/Memo-AG-MAS pages 237-239.pdf"
+       }
+      }
+     ]
+    },
+    {
+     "name": "Exam revision",
+     "items": [
+      {
+       "title": "Exam Revision 1: Paper 1",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-robertson/exam-revision/EXAM REVISION 1 - Grade 10 - Paper1.pdf"
+       },
+       "memo": {
+        "local": "files/maths-robertson/exam-revision/Exam revision 1 - Grade 10 P1 - Solutions.pdf"
+       }
+      },
+      {
+       "title": "Exam Revision 1: Paper 2",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-robertson/exam-revision/EXAM REVISION 1 - Grade 10 - Paper2.pdf"
+       },
+       "memo": {
+        "local": "files/maths-robertson/exam-revision/Exam revision 1 - Grade 10 P2 - Solutions.pdf"
+       }
+      }
+     ]
+    },
+    {
+     "name": "Paper 2 topic revision",
+     "items": [
+      {
+       "title": "Geometry revision",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-robertson/paper-2-topic-revision/Geometry revision.pdf"
+       },
+       "memo": {
+        "local": "files/maths-robertson/paper-2-topic-revision/Memo-Geometry Revision.pdf"
+       }
+      },
+      {
+       "title": "Measurement revision",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-robertson/paper-2-topic-revision/Measurement Revision.pdf"
+       },
+       "memo": {
+        "local": "files/maths-robertson/paper-2-topic-revision/Memo-Measurement Revision.pdf"
+       }
+      },
+      {
+       "title": "Trig revision",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-robertson/paper-2-topic-revision/Trig revision.pdf"
+       },
+       "memo": {
+        "local": "files/maths-robertson/paper-2-topic-revision/Memo-Trig Revision.pdf"
+       }
+      }
+     ]
+    },
+    {
+     "name": "Paper 1 topic revision",
+     "items": [
+      {
+       "title": "SHARP Worksheet 2: Multiplying & factorising expressions",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/algebra-test-prep/SHARP Worksheet_2__Algebra-_Multiplying_and_Factorising_Expressions_Grade_10_Mathematics.pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/algebra-test-prep/SHARP Worksheet_2_Memo__Algebra_Multiplying_and_Factorising_Expressions_Grade_10_Mathematics.pdf"
+       }
+      },
+      {
+       "title": "Worksheet 8: Solving equations",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-robertson/paper-1-topic-revision/Worksheet-8-solving-equations-technical-maths-grade-10-.pdf"
+       },
+       "memo": {
+        "local": "files/maths-robertson/paper-1-topic-revision/Worksheet-8-Memorandum-Solving-equations.pdf"
+       }
+      },
+      {
+       "title": "Worksheet 9: Linear inequalities",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-robertson/paper-1-topic-revision/worksheet-9-linear-inequalities.pdf"
+       },
+       "memo": {
+        "local": "files/maths-robertson/paper-1-topic-revision/Worksheet-9-Memorandum-linear-inequalities.pdf"
+       }
+      },
+      {
+       "title": "Solving quadratics by factorising (Corbett)",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-robertson/paper-1-topic-revision/Solving Quadratics Factorising. CorbettMaths.pdf"
+       },
+       "memo": {
+        "local": "files/maths-robertson/paper-1-topic-revision/solving-quadratics-answers1.pdf"
+       }
       }
      ]
     },
@@ -928,6 +1108,134 @@ window.MANIFEST={
      ]
     },
     {
+     "name": "Probability",
+     "items": [
+      {
+       "title": "Venn diagrams (Corbett)",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/probability/venn-diagrams-Corbett worksheet.pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/probability/venn-diagrams-Corbett-memo.pdf"
+       }
+      }
+     ]
+    },
+    {
+     "name": "Page a Day",
+     "items": [
+      {
+       "title": "PAD 1\u20133: Graphs & equations",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/page-a-day/PAD 1-3 - Gr 10 - Graphs and equations .pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/page-a-day/Memo-Page A Day 1-3-Graphs & Equations.pdf"
+       }
+      },
+      {
+       "title": "PAD 4\u20137: Graphs & equations",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/page-a-day/PAD 4-7 - Gr 10 - Graphs & equations .pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/page-a-day/Memo-Page A Day 4-7 Graphs &Equations.pdf"
+       }
+      },
+      {
+       "title": "PAD 15\u201316: Analytical geometry",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/page-a-day/PAD-15-16- Gr 10 - Analytical geometry.pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/page-a-day/Memo-PAD ws 15 & 16 Analytical Geometry.pdf"
+       }
+      }
+     ]
+    },
+    {
+     "name": "Circle Geometry",
+     "items": [
+      {
+       "title": "Circle Geometry investigations Ex 2\u20135",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/circle-geometry/Circle Geometry investigations-Ex 2-5.pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/circle-geometry/Memo-Circle Geometry exercises.pdf"
+       }
+      },
+      {
+       "title": "Teaching notes: Circle Geometry investigations Ex 2\u20135",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/circle-geometry/Teaching notes-Circle Geometry investigations-Ex 2-5.pdf"
+       },
+       "memo": null
+      }
+     ]
+    },
+    {
+     "name": "e-Classroom functions worksheets",
+     "items": [
+      {
+       "title": "Analysing Functions worksheet",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/e-classroom-functions-worksheets/ANALYSING FUNCTIONS WORKSHEET.pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/e-classroom-functions-worksheets/MEMO-ANALYSING FUNCTIONS WORKSHEET.pdf"
+       }
+      },
+      {
+       "title": "Linear Function worksheet",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/e-classroom-functions-worksheets/LINEAR FUNCTION WORKSHEET.pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/e-classroom-functions-worksheets/MEMO-LINEAR FUNCTION WORKSHEET.pdf"
+       }
+      },
+      {
+       "title": "Parabola worksheet",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/e-classroom-functions-worksheets/PARABOLA WORKSHEET.pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/e-classroom-functions-worksheets/MEMO-PARABOLA WORKSHEET.pdf"
+       }
+      },
+      {
+       "title": "Hyperbole worksheet",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/e-classroom-functions-worksheets/HYPERBOLE WORKSHEET.pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/e-classroom-functions-worksheets/MEMO-HYPERBOLE WORKSHEET.pdf"
+       }
+      },
+      {
+       "title": "Exponential Function worksheet",
+       "year": 2026,
+       "paper": {
+        "local": "files/maths-drew/e-classroom-functions-worksheets/EXPONENTIAL FUNCTION WORKSHEET.pdf"
+       },
+       "memo": {
+        "local": "files/maths-drew/e-classroom-functions-worksheets/MEMO-EXPONENTIAL FUNCTION WORKSHEET.pdf"
+       }
+      }
+     ]
+    },
+    {
      "name": "Algebra: test prep",
      "items": [
       {
@@ -1352,6 +1660,51 @@ window.MANIFEST={
      ]
     },
     {
+     "name": "Macbeth & Lit essay revision",
+     "items": [
+      {
+       "title": "Macbeth Act 5 timeline with themes & motifs (image)",
+       "year": 2026,
+       "paper": {
+        "local": "files/english/macbeth-lit-essay-revision/MACBETH ACT 5 TIMELINE (IMAGE) with themes and motifs.png"
+       },
+       "memo": null
+      },
+      {
+       "title": "Macbeth revision: themes and motifs",
+       "year": 2026,
+       "paper": {
+        "local": "files/english/macbeth-lit-essay-revision/Macbeth Revision Themes and Motifs.pdf"
+       },
+       "memo": null
+      },
+      {
+       "title": "Macbeth flowchart (2026)",
+       "year": 2026,
+       "paper": {
+        "local": "files/english/macbeth-lit-essay-revision/MACBETH FLOWCHART (2026).pdf"
+       },
+       "memo": null
+      },
+      {
+       "title": "Writing a literary essay (Gr 10 2026)",
+       "year": 2026,
+       "paper": {
+        "local": "files/english/macbeth-lit-essay-revision/Writing a Literary Essay - Gr 10 2026 .pdf"
+       },
+       "memo": null
+      },
+      {
+       "title": "Literature essay guidelines (2026)",
+       "year": 2026,
+       "paper": {
+        "local": "files/english/macbeth-lit-essay-revision/LITERATURE ESSAY GUIDELINES (2026).pdf"
+       },
+       "memo": null
+      }
+     ]
+    },
+    {
      "name": "Poetry",
      "items": [
       {
@@ -1405,6 +1758,13 @@ window.MANIFEST={
        "paper": null,
        "memo": null,
        "note": "EGD 1: Thu 12 Nov (2h)<br>EGD 2: Mon 16 Nov, Session 2 (2h)"
+      },
+      {
+       "title": "November exam scope",
+       "year": 2026,
+       "paper": null,
+       "memo": null,
+       "note": "The November exam scope was posted on Classroom on 14 Oct as a text post. Check Classroom."
       }
      ]
     },
@@ -1489,6 +1849,37 @@ window.MANIFEST={
        "paper": null,
        "memo": null,
        "note": "IT Theory: Mon 9 Nov, Session 1 (2h)<br>IT Prac: Thu 19 Nov, Session 2 (2h)"
+      },
+      {
+       "title": "November exam scope",
+       "year": 2026,
+       "paper": null,
+       "memo": null,
+       "note": "The November exam scope was posted on Classroom on 14 Oct as a text post. Check Classroom."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "LO",
+   "class": "10 LO 2026",
+   "teacher": "Carpenter",
+   "topics": [
+    {
+     "name": "November exam breakdown 2026",
+     "items": []
+    },
+    {
+     "name": "Essay writing",
+     "items": [
+      {
+       "title": "A strong PEEL (PEEL essay notes)",
+       "year": 2026,
+       "paper": {
+        "local": "files/lo/essay-writing/A strong PEEL.pdf"
+       },
+       "memo": null
       }
      ]
     }
