@@ -116,7 +116,8 @@ window.MANIFEST={
        "year": 2025,
        "paper": {
         "drive": "1kpzvPxv754E6DexQTYTuE23CmAkx0BlS",
-        "local": "files/physical-science/kinematics/2025 Cycle test Kinematics and Electricity.pdf"
+        "local": "files/physical-science/kinematics/2025 Cycle test Kinematics and Electricity.pdf",
+        "orig": "files/physical-science/kinematics/2025 Cycle test Kinematics and Electricity.docx"
        },
        "memo": {
         "drive": "1GFttw8pNG9_UWYxgS_msCIrsic0bie2X",
@@ -469,7 +470,8 @@ window.MANIFEST={
        "title": "WYNTK: Grade 10 November breakdown & revision pack 2026",
        "year": 2026,
        "paper": {
-        "local": "files/maths-robertson/november-2026/WYNTK-Grade 10 breakdown & Revision Pack-2026.pdf"
+        "local": "files/maths-robertson/november-2026/WYNTK-Grade 10 breakdown & Revision Pack-2026.pdf",
+        "orig": "files/maths-robertson/november-2026/WYNTK-Grade 10 breakdown & Revision Pack-2026.docx"
        },
        "memo": null
       },
@@ -1080,7 +1082,8 @@ window.MANIFEST={
        "title": "WYNTK: Grade 10 November breakdown & revision pack 2026",
        "year": 2026,
        "paper": {
-        "local": "files/maths-robertson/november-2026/WYNTK-Grade 10 breakdown & Revision Pack-2026.pdf"
+        "local": "files/maths-robertson/november-2026/WYNTK-Grade 10 breakdown & Revision Pack-2026.pdf",
+        "orig": "files/maths-robertson/november-2026/WYNTK-Grade 10 breakdown & Revision Pack-2026.docx"
        },
        "memo": null
       },
@@ -1621,7 +1624,8 @@ window.MANIFEST={
        "year": 2026,
        "paper": {
         "drive": "1Sugz4LaT7ntxNejkQPzZw5muDdYgHVcE",
-        "local": "files/english/macbeth/MACBETH Act 4 QUESTION (2026).pdf"
+        "local": "files/english/macbeth/MACBETH Act 4 QUESTION (2026).pdf",
+        "orig": "files/english/macbeth/MACBETH Act 4 QUESTION (2026).docx"
        },
        "memo": null
       },
@@ -1674,7 +1678,8 @@ window.MANIFEST={
        "title": "Macbeth revision: themes and motifs",
        "year": 2026,
        "paper": {
-        "local": "files/english/macbeth-lit-essay-revision/Macbeth Revision Themes and Motifs.pdf"
+        "local": "files/english/macbeth-lit-essay-revision/Macbeth Revision Themes and Motifs.pdf",
+        "orig": "files/english/macbeth-lit-essay-revision/Macbeth Revision Themes and Motifs.pptx"
        },
        "memo": null
       },
@@ -1682,7 +1687,8 @@ window.MANIFEST={
        "title": "Macbeth flowchart (2026)",
        "year": 2026,
        "paper": {
-        "local": "files/english/macbeth-lit-essay-revision/MACBETH FLOWCHART (2026).pdf"
+        "local": "files/english/macbeth-lit-essay-revision/MACBETH FLOWCHART (2026).pdf",
+        "orig": "files/english/macbeth-lit-essay-revision/MACBETH FLOWCHART (2026).docx"
        },
        "memo": null
       },
@@ -1698,7 +1704,8 @@ window.MANIFEST={
        "title": "Literature essay guidelines (2026)",
        "year": 2026,
        "paper": {
-        "local": "files/english/macbeth-lit-essay-revision/LITERATURE ESSAY GUIDELINES (2026).pdf"
+        "local": "files/english/macbeth-lit-essay-revision/LITERATURE ESSAY GUIDELINES (2026).pdf",
+        "orig": "files/english/macbeth-lit-essay-revision/LITERATURE ESSAY GUIDELINES (2026).docx"
        },
        "memo": null
       }
@@ -1735,7 +1742,8 @@ window.MANIFEST={
        "year": 2025,
        "paper": {
         "drive": "1hrmWY0gr9Dt92Uj2x08CEBN_sPU-i8k6",
-        "local": "files/english/atonement/2025 Atonement Essay.pdf"
+        "local": "files/english/atonement/2025 Atonement Essay.pdf",
+        "orig": "files/english/atonement/2025 Atonement Essay.docx"
        },
        "memo": null
       }
@@ -1877,7 +1885,8 @@ window.MANIFEST={
        "title": "A strong PEEL (PEEL essay notes)",
        "year": 2026,
        "paper": {
-        "local": "files/lo/essay-writing/A strong PEEL.pdf"
+        "local": "files/lo/essay-writing/A strong PEEL.pdf",
+        "orig": "files/lo/essay-writing/A strong PEEL.docx"
        },
        "memo": null
       }
